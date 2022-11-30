@@ -1,8 +1,0 @@
-intalar as bibliotecas requests, json, telebot, pytelegramapi
-
-pip install requests 
-pip install json
-pip install pytelegrambotapi
-pip install telebot
-
-meu telegram: https://t.me/cybervini
